@@ -1,0 +1,9 @@
+name: ActionAPI
+version: 1.0.3
+main: me.jacobculley.actionapi.ActionAPI
+softdepend: [CustomGUI, DailyBonus, PlaceholderAPI, Vault, MySQL-Tokens, Factions]
+
+commands:
+  actionapi:
+    description: Main plugin command
+    aliases: [aapi]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/craftbukkit-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/craftbukkit-1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/craftbukkit-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/craftbukkit.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/spigot-1.7.10.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/spigot-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/spigot-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/spigot-1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/spigot-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Versions/Spigot.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/PlaceholderAPI/2.3.1/PlaceholderAPI.jar"/>
+	<classpathentry kind="lib" path="/Users/jacobculley/Documents/Quick Access/Plugins/Plugin JAR Reference/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
